@@ -12,7 +12,7 @@
 
 - 📝 I write articles on [Medium](https://medium.com/@aravindmnair)
 
-- 💬 Ask me about **React Native, Smartphones, gadgets etc**
+- 💬 Ask me about **React Native, Smartphones and tech**
 
 - 📫 How to reach me **aravind.nair2010@gmail.com**
 
