@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 
 - 📝 I write articles on [https://medium.com/@aravindmnair](https://medium.com/@aravindmnair)
 
-- 💬 Ask me about **React Native**
+- 💬 Ask me about **React Native, Smartphones, gadgets etc**
 
 - 📫 How to reach me **aravind.nair2010@gmail.com**
 
