@@ -6,7 +6,7 @@
 <h3 align="center">A passionate hybrid mobile app developer from India 🇮🇳</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aravi365" alt="aravi365" /> </p>
 
-- 🔭 I’m currently working at  [Cubet Technolabs] (https://cubettech.com/)
+- 🔭 I’m currently working at  [Cubet Technolabs](https://cubettech.com/)
 
 - 👨‍💻 All of my projects are available at [aravi365.github.io](aravi365.github.io)
 
