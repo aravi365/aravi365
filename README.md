@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working at  [Cubet Technolabs](https://cubettech.com/)
 
-- 👨‍💻 All of my projects are available at [aravi365](aravi365.github.io)
+- 👨‍💻 Portfolio is available at [aravi365](aravi365.github.io)
 
 - 📝 I write articles on [Medium](https://medium.com/@aravindmnair)
 
