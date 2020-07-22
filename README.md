@@ -16,7 +16,7 @@
 
 - 📫 How to reach me **aravind.nair2010@gmail.com**
 
-- ⚡ Fun fact **Chai over Coffee**
+- ⚡ Fun fact **Ctrl C, Ctrl V and Ctrl Z have saved more life than batman!**
 
 <p align="left"><img src="https://konpa.github.io/devicon/devicon.git/icons/react/react-original-wordmark.svg" alt="react" width="20" height="20"/> <img src="https://konpa.github.io/devicon/devicon.git/icons/android/android-original-wordmark.svg" alt="android" width="20" height="20"/> <img src="https://konpa.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="20" heiglht="20"/></p><p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=aravi365&show_icons=true" alt="aravi365" /> </p>
 
