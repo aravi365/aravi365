@@ -8,9 +8,9 @@
 
 - 🔭 I’m currently working at  [Cubet Technolabs](https://cubettech.com/)
 
-- 👨‍💻 All of my projects are available at [aravi365.github.io](aravi365.github.io)
+- 👨‍💻 All of my projects are available at [aravi365](aravi365.github.io)
 
-- 📝 I write articles on [https://medium.com/@aravindmnair](https://medium.com/@aravindmnair)
+- 📝 I write articles on [Medium](https://medium.com/@aravindmnair)
 
 - 💬 Ask me about **React Native, Smartphones, gadgets etc**
 
