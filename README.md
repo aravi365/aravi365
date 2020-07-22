@@ -25,5 +25,5 @@
 <a href="https://linkedin.com/in/aravindmnair" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="aravindmnair" height="20" width="20" /></a>
 <a href="https://fb.com/aravindmnair" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="aravindmnair" height="20" width="20" /></a>
 <a href="https://instagram.com/aravi.nair" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="aravi.nair" height="20" width="20" /></a>
-<a href="https://medium.com/aravindmnair" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="aravindmnair" height="20" width="20" /></a>
+<a href="https://medium.com/aravindmnair" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@aravindmnair" height="20" width="20" /></a>
 </p>
