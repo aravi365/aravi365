@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h1 align="center">Hi 👋, I'm Aravind</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate hybrid mobile app developer from India 🇮🇳</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aravi365" alt="aravi365" /> </p>
 
 - 🔭 I’m currently working at **Cubet Technolabs**
