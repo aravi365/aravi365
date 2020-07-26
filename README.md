@@ -1,6 +1,7 @@
-<h1 align="center">
- <img src='https://raw.githubusercontent.com/aravi365/aravi365/master/imgs/img_1.png' alt="Aravind M Nair, React Native developer who loves tech and gadgets" height="100" width="100"/>
- Namaste! I'm Aravind</h1>
+<h1 align='center>
+<img src='https://raw.githubusercontent.com/aravi365/aravi365/master/imgs/img_1.png' alt="Aravind M Nair, React Native developer who loves tech and gadgets" height="100" width="100"/>
+</h1>
+<h1 align="center"> Namaste! I'm Aravind</h1>
 <h3 align="center">A passionate hybrid mobile app developer from India 🇮🇳</h3>
 <h3 align="center">
 <img align="center" src='https://raw.githubusercontent.com/aravi365/aravi365/master/imgs/img_2.png' alt="Aravind M Nair, React Native developer who loves tech and gadgets" height="100" width="100"/>
