@@ -1,4 +1,4 @@
-<h1 align='center>
+<h1 align="center">
 <img src='https://raw.githubusercontent.com/aravi365/aravi365/master/imgs/img_1.png' alt="Aravind M Nair, React Native developer who loves tech and gadgets" height="100" width="100"/>
 </h1>
 <h1 align="center"> Namaste! I'm Aravind</h1>
