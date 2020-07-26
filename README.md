@@ -21,9 +21,10 @@
 - ⚡ I❤️📱s
  
 <p align="left">
- <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" alt="react" width="20" height="20"/> 
- <img src="https://github.com/devicons/devicon/blob/master/icons/android/android-original-wordmark.svg" alt="android" width="20" height="20"/> 
- <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="javascript" width="20" heiglht="20"/></p>
+ <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" alt="react-native" width="40" height="40"/> 
+ <img src="https://github.com/devicons/devicon/blob/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/>
+ <img src="https://github.com/devicons/devicon/blob/master/icons/apple/apple-original.svg" alt="ios" width="40" height="40"/>
+ <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" heiglht="40"/></p>
  <p align="center">
 
 <p align="center">
