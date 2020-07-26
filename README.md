@@ -19,13 +19,14 @@
 - 📫 Reach me **aravind.nair2010@gmail.com**
 
 -  I  _ ❤️ _ 📱's
- 
+
+<br />
 <p align="left">
- <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" alt="react-native" width="40" height="40"/> 
- <img src="https://github.com/devicons/devicon/blob/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/>
- <img src="https://github.com/devicons/devicon/blob/master/icons/apple/apple-original.svg" alt="ios" width="40" height="40"/>
- <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
- <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg" alt="css" width="40" height="40"/>
+ <img align="center" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" alt="react-native" width="40" height="40"/> 
+ <img align="center" src="https://github.com/devicons/devicon/blob/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/>
+ <img align="center" src="https://github.com/devicons/devicon/blob/master/icons/apple/apple-original.svg" alt="ios" width="40" height="40"/>
+ <img align="center" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
+ <img align="center" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg" alt="css" width="40" height="40"/>
 </p>
 
 <br />
