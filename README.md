@@ -14,7 +14,7 @@
 
 - 💬 Ask me about **React Native, Smartphones and tech**
 
-- 📫 How to reach me **aravind.nair2010@gmail.com**
+- 📫 Reach me **aravind.nair2010@gmail.com**
 
 - ⚡ I❤️📱s
  
