@@ -8,9 +8,7 @@
  </h3>
 
 
-- 🔭 I’m currently working at  [Cubet Technolabs](https://cubettech.com/)
-
-- 👨‍💻 Portfolio is available at [aravi365](https://aravi365.github.io)
+- 🔭 I’m currently working at  [Nagarro Software](https://nagarro.com/)
 
 - 📝 I write articles on [Medium](https://medium.com/@aravindmnair)
 
