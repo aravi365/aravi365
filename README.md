@@ -18,12 +18,9 @@
 
 ### 👨‍💻 About me
 
-- 🔭 &nbsp;Mobile developer at **[Nagarro](https://nagarro.com/)** — building hybrid apps with React Native
 - 📝 &nbsp;I write about mobile dev on **[Medium](https://medium.com/@aravindmnair)**
 - 📦 &nbsp;Author of **[react-native-edge-glow](https://github.com/aravi365/react-native-edge-glow)** — a Siri-style animated edge glow for RN
 - 💬 &nbsp;Ask me about **React Native, mobile architecture, smartphones & tech**
-- 📫 &nbsp;Reach me at **aravind.nair2010@gmail.com**
-- ⚡ &nbsp;Fun fact: I _❤️_ 📱's
 
 ### 🛠️ Tech I work with
 
